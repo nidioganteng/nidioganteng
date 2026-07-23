@@ -52,3 +52,6 @@
     <a href="mailto:nidio.tilman24@gmail.com">📬 Contact Me 📬</a>
   </kbd>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=100&section=footer" width="100%" />
+</p>
